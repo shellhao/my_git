@@ -1,0 +1,4 @@
+﻿  4_8.cpp
+f:\shellhao\vs code\c_cpp\chap4\chap4\chap4\4_8.cpp(245): warning C4305: “参数”: 从“double”到“float”截断
+f:\shellhao\vs code\c_cpp\chap4\chap4\chap4\4_8.cpp(250): warning C4305: “参数”: 从“double”到“float”截断
+  chap4.vcxproj -> F:\shellhao\VS code\c_cpp\chap4\chap4\x64\Debug\chap4.exe
